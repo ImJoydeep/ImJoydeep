@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ImJoydeep
-- 👀 I’m interested in computer programming, travelling, video games
-- 🌱 I’m currently learning mechine learning, deep learning, neural networks etc.
+- 👋 Hi, I’m @ImJoydeep👦
+- 👀 I’m interested in computer programming💻, travelling🧳, video games🎮
+-💕 In Love with Mechine Learning😍, Deep Learning😘, Neural Networks💖, GAN💞....
 -
 - 📫 How to reach me - email. jbaidya42@gmail.com
  
