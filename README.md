@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImJoydeep👦
-- 👀 I’m interested in computer programming💻, travelling🧳, video games🎮
+- 👀 Interested in computer programming💻, travelling🧳, video games🎮
 - 💕 In Love with Mechine Learning😍, Deep Learning😘, NLP💖, GAN💞....
 -
 - 📫 How to reach me - email. jbaidya42@gmail.com
