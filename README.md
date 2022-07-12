@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImJoydeep👦
 - 👀 Interested in computer programming💻, travelling🧳, video games🎮
-- 💕 In Love with Mechine Learning😍, Deep Learning😘, CV💖, CNN💞....
+- 💕 In Love with Mechine Learning💖, Deep Learning💖, CV💖, CNN💞....
 -
 - 📫 How to reach me - email. jbaidya42@gmail.com
  
